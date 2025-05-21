@@ -1,1 +1,3 @@
 # ZHIPU-tallk
+<div style="text-align: justify"> Gemini-Talk is a conversational AI tool built using the Gemini model, which is a state-of-the-art conversational model developed by Google. It is designed to enhance natural language understanding and generate context-aware responses. Gemini-Talk aims to create a more engaging and insightful dialogue experience for users. It may support multiple tasks, including question answering, creative writing, and information retrieval, making it versatile for various applications. <a href="https://sean28.github.io/ZHIPU-tallk/">here</a>.</div>
+<div style="text-align: justify"> <br> </div>
